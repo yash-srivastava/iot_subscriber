@@ -1,10 +1,10 @@
 package message_handler
 
 import (
-	"iot_subscriber/lib/formatter"
+	"github.com/iot_subscriber/lib/formatter"
 	"github.com/revel/revel"
 	"iot/lib/utils"
-	"iot_subscriber/lib/dbutils"
+	"github.com/iot_subscriber/lib/dbutils"
 	"time"
 )
 

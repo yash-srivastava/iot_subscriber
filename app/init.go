@@ -3,10 +3,10 @@ package app
 import (
 	"github.com/revel/revel"
 	"time"
-	"iot_subscriber/conf"
-	"iot_subscriber/lib/job_worker"
-	"iot_subscriber/lib/subscriber"
-	"iot_subscriber/lib/dbutils"
+	"github.com/iot_subscriber/conf"
+	"github.com/iot_subscriber/lib/job_worker"
+	"github.com/iot_subscriber/lib/subscriber"
+	"github.com/iot_subscriber/lib/dbutils"
 )
 
 var (

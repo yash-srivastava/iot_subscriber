@@ -1,7 +1,7 @@
 package job_worker
 
 import (
-	"iot_subscriber/lib/message_handler"
+	"github.com/iot_subscriber/lib/message_handler"
 	"github.com/jrallison/go-workers"
 )
 

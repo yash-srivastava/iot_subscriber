@@ -1,11 +1,11 @@
 package formatter
 
 import (
-	"iot_subscriber/lib/utils"
+	"github.com/iot_subscriber/lib/utils"
 	"encoding/binary"
 	"encoding/hex"
 	"strings"
-	"iot_subscriber/lib/subscriber"
+	"github.com/iot_subscriber/lib/subscriber"
 	"encoding/base64"
 	"github.com/revel/revel"
 )
