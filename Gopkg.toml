@@ -20,6 +20,7 @@
 #  name = "github.com/x/y"
 #  version = "2.4.0"
 
+ignored = ["github.com/revel/revel"]
 
 [[constraint]]
   name = "github.com/jinzhu/gorm"
@@ -28,10 +29,6 @@
 [[constraint]]
   branch = "master"
   name = "github.com/jrallison/go-workers"
-
-[[constraint]]
-  name = "github.com/revel/revel"
-  version = "0.16.0"
 
 [[constraint]]
   branch = "v2"
