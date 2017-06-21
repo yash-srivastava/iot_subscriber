@@ -3,8 +3,8 @@ package message_handler
 import (
 	"github.com/iot_subscriber/lib/formatter"
 	"github.com/revel/revel"
-	"iot/lib/utils"
 	"github.com/iot_subscriber/lib/dbutils"
+	"github.com/iot_subscriber/lib/utils"
 	"time"
 )
 
